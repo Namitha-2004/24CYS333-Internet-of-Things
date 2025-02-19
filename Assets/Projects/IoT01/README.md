@@ -16,8 +16,7 @@ Emergency ambulances face delays due to traffic congestion and lack of efficient
 *Objective:*  
 To develop a Smart Ambulance System using IoT technologies to:  
 - Optimize ambulance routing with real-time traffic updates.  
-- Facilitate seamless communication with hospitals for patient data sharing and arrival notifications.  
-- Dynamically prioritize ambulances at traffic signals.  
+- Facilitate seamless communication with hospitals for patient data sharing and arrival notifications.   
 
 *Impact and Metrics:*  
 - Reduce average ambulance response time by *20%*.  
@@ -169,6 +168,15 @@ To ensure the confidentiality, integrity, and availability of data:
    - *Feasibility:* This enhancement involves connecting the system with public emergency services, requiring API integrations and collaboration with government agencies.    
    - *Priority:* High, as it would allow the system to scale to wider public service applications, benefiting more people.
 This solution ensures timely emergency response, optimized navigation, and improved patient care while leveraging cutting-edge technologies. {Refer to the document for more detailed explanations}
+-----
+### Deliverable
+*Mobile Interface (Used by Paramedics & Drivers)*  
+- Real-time patient vitals monitoring (ECG, heart rate, oxygen levels).  
+- GPS-based navigation with AI-powered route optimization.  
+- Hospital communication module for seamless data sharing and arrival notifications.
+*Hospital Communication and Data Integration*  
+- Cloud-based patient data transmission: Shares real-time patient vitals and medical history.  
+- Automated hospital alerts: Notifies emergency staff of incoming patients.  
 -----
 
 ### Mapping the Project to Relevant Sustainable Development Goals (SDGs)
